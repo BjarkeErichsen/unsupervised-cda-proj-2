@@ -1,0 +1,9 @@
+__pycache__/
+*.png
+*.jpg
+*.jpeg
+.DS_Store
+*.log
+dataset
+*.csv
+dataset.zip
