@@ -1,0 +1,11 @@
+This project is part of the Computational Data Analysis course.  
+We dive into unsupervised learning, dimensionality reduction, and regression.
+
+> Khalil is a nerd. 😎
+
+## 📦 Setup
+
+To install the required packages:
+
+```bash
+pip install -r requirements.txt
