@@ -1,7 +1,15 @@
 This project is part of the Computational Data Analysis course.  
 We dive into unsupervised learning, dimensionality reduction, and regression.
 
-> Khalil is a nerd. 😎
+Supervised_models_updated contains 
+  1 all our supervised learning analysis
+  2 NMF training / plots
+  3 Data handling
+
+Timeseries_embeddings.ipynb:
+  Contains code used for creating the time series embeddings.
+
+
 
 ## 📦 Setup
 
