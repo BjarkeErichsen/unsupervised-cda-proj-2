@@ -6,9 +6,11 @@ Supervised_models_updated contains
   2 NMF training / plots
   3 Data handling
 
-Timeseries_embeddings.ipynb:
+Timeseries_embeddings:
   Contains code used for creating the time series embeddings.
 
+Case 2:
+  Contains additional plots especially those used in appendix, like t-SNE, pairwise correlation matrix, etc
 
 
 ## 📦 Setup
